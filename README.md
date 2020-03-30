@@ -1,2 +1,2 @@
-# christian.schlosrich-gmail.com
+# puppeteer-chrome-bot
 Puppeteer headless Chrome bot attack
